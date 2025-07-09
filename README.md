@@ -16,10 +16,11 @@ It includes a login system, interactive menu, and basic utilities like greeting,
 </list>
 
 
-### 💡 What I Learned:
-
+<h2>### 💡 What I Learned:</h2>
+<list>
 - Python basics (variables, input/output)
 - while and for loops
 - Functions with and without parameters
 - Conditional logic (if, elif, else)
 - String handling with .strip()
+</list>
