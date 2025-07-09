@@ -14,3 +14,12 @@ It includes a login system, interactive menu, and basic utilities like greeting,
 - 🟧 Triangle pattern printer
 - 🔁 Looping menu with exit option
 </list>
+
+
+### 💡 What I Learned:
+
+- Python basics (variables, input/output)
+- while and for loops
+- Functions with and without parameters
+- Conditional logic (if, elif, else)
+- String handling with .strip()
