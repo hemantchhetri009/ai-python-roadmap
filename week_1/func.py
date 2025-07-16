@@ -78,3 +78,8 @@ with open("file.txt", "w") as f:
 with open("file.txt", "r") as g:
     content = g.read()
     print(content)
+
+with open("file.txt", "r") as g:
+    content = g.read()
+    print(content)
+
