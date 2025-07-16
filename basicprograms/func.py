@@ -60,10 +60,21 @@
 #         print("*" *i)
 # triangle_patt(int(input("number: ")))
 
-def sum_num():
-    num = int(input("Your number: "))
-    total = 0
-    for i in range(1, num + 1):
-        total += i
-        print(f"the sum of {num} is ", total)
-sum_num()
+# def sum_num():
+#     num = int(input("Your number: "))
+#     total = 0
+#     for i in range(1, num + 1):
+#         total += i
+#         print(f"the sum of {num} is ", total)
+# sum_num()]
+
+def work():
+    name = input("enter your shit:")
+    return name
+
+with open("file.txt", "w") as f:
+    f.write(work())
+
+with open("file.txt", "r") as g:
+    content = g.read()
+    print(content)

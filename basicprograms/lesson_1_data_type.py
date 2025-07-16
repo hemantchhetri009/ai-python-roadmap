@@ -7,4 +7,4 @@ _is_it_right = True
 _list_ = ["red", "blue"]
 _dictionary_ = {"name": "Hemant" , "age": 19 }
 
-print(_dictionary_ [name]) 
+# print(_dictionary_ [name]) 
